@@ -1,0 +1,41 @@
+li{
+    list-style: none;
+}
+.editbtn{
+    width: 160px;
+    height:30px ;
+    font-size: 15px;
+    margin: 10px;
+    background-color:whitesmoke;
+}
+.deletbtn{
+    width: 160px;
+    height:30px ;
+    margin: 10px;
+    background-color: red;
+    color: white;
+    font-size: 15px;
+    
+}
+.text{
+    font-size: 25px;
+}
+ .chekint{
+    width: 20px;
+    height: 20px;
+    font-size: 30px;
+    margin: 8px;
+    
+ } 
+ .txtint{
+    width: 150px;
+    height:20px ;
+/* font-size: 20px; */
+margin-left: 20px;
+
+ }
+ li{
+    font-size: 20px;
+    font-weight: 400;
+    font-style: bold;
+ }

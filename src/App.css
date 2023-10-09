@@ -1,0 +1,52 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.todo{
+   padding: 0;
+    margin:20px;
+margin-left: 400px;    
+height: 520px;
+width: 400px;
+border: 2px solid black;
+}
+.inputadd{
+        height: 40px;
+        width: 395px;
+        font-size:x-large;
+    }
+h1{
+    text-align: center;
+}
+.addbtn{
+    margin-top:10px;
+    height: 40px;
+     width: 400px;
+     background-color:black;
+     color: white;
+}
+.task{
+    width: 100px;
+    height:30px ;
+    margin: 10px;
+}
+.task:active{
+    /* border: 5px solid black; */
+    box-shadow: inset 10px 10px 40px 40px black;
+    color: white;
+}
+.task:hover{
+    border: 2px solid black;
+    cursor: pointer;
+}
+h2{
+    text-align: center;
+}
+.heading{
+    /* border: 1px solid blue; */
+    width: 395px;
+    overflow-y: scroll;
+    height: 320px;
+}

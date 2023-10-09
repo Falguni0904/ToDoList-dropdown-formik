@@ -1,0 +1,17 @@
+
+img{
+    border-radius: 50%;
+ 
+   width: 90px;
+}
+h5{
+/* display: inline; */
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+/* border: 2px solid red; */
+}
+.main{
+    /* border: 2px solid green; */
+    align-items: center;
+    display: flex;
+    padding: 5px;
+}
